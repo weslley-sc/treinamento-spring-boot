@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TreinamentoSpringBootApplication<TreinamentoSpringBoot>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.solinftec.treinamentospringboot.TreinamentoSpringBootApplication",
+      "projectName": "TreinamentoSpringBoot",
+      "args": ""
+    }
+  ]
+}
